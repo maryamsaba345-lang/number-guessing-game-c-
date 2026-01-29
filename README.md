@@ -126,8 +126,9 @@ This project helps in understanding:
 ## Author
 
 Name: Maryam saba. 
-ID: 2540148 Institute: Air University Karachi Campus
-Department: Computer Science
-Course: Programming Fundamentals
+ID: 2540148 
+Institute: Air University Karachi Campus. 
+Department: Computer Science. 
+Course: Programming Fundamentals. 
 
 ---
